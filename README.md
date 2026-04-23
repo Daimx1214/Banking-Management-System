@@ -42,7 +42,7 @@ Operations like deposit, withdrawal, and display are implemented as member funct
 ### Run the Program
 
 ```bash id="run_code"
-git clone https://github.com/your-username/console-banking-app.git
+git clone https://github.com/Daimx1214/console-banking-app.git
 cd console-banking-app
 
 g++ main.cpp -o app
@@ -65,5 +65,11 @@ After running the program, a menu will appear. Select an option by entering the 
 * Strengthened understanding of OOP fundamentals in C++
 * Gained experience in building interactive console programs
 * Learned how to validate and manage user input safely
-* Improved ability to structure and organize code logically
-* Understood the basics of simulating real-world systems
+* Improved ability to structure and organize code logically👨‍💻 Author
+
+**Daim Ali**
+BS Computer Science Student
+Focused on .NET Development, Problem Solving, and Software Engineering
+Understood the basics of simulating real-world systems
+
+  
