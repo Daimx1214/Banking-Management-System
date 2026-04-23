@@ -67,9 +67,11 @@ After running the program, a menu will appear. Select an option by entering the 
 * Learned how to validate and manage user input safely
 * Improved ability to structure and organize code logically👨‍💻 Author
 
-**Daim Ali**
-BS Computer Science Student
-Focused on .NET Development, Problem Solving, and Software Engineering
-Understood the basics of simulating real-world systems
+## 👨‍💻 Author
 
-  
+**Daim Ali**
+
+BS Computer Science Student
+
+Focused on .NET Development, Problem Solving, and Software Engineering
+
